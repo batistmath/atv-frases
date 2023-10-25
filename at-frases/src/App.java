@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class App {
+public class app {
     public static String revertePalavras(String input) {
         if (input == null || input.isEmpty()) {
             return input;
